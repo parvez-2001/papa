@@ -37,7 +37,7 @@ body {
 .cardImage img {
   width: 100%;
   height: 180px;
-  display: block;
+  /* display: block; */
 }
 
 /* Content */
